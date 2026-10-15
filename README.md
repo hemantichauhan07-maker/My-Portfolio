@@ -1,32 +1,41 @@
-# Hemanti Chauhan — Full Stack Developer Portfolio
+ Hemanti Chauhan | Personal Portfolio
 
-A responsive React + Vite portfolio showcasing Hemanti Chauhan's profile, skills, education, contact information and deployed projects.
+Welcome to my personal portfolio repository! 
 
-## Run locally
+This portfolio showcases my technical skills, projects, and journey as an aspiring Full Stack Developer. It features a modern, responsive, and user-friendly design built using React.js and modern frontend technologies.
 
-1. Install [Node.js](https://nodejs.org/).
-2. Extract this ZIP and open the project folder in VS Code.
-3. Open the terminal in the project folder and run:
+ About Me
 
-   ```bash
-   npm install
-   npm run dev
-   ```
+I am a passionate and motivated aspiring Full Stack Developer who enjoys creating attractive, responsive, and interactive web applications. I am continuously learning new technologies and building projects to improve my technical skills.
 
-4. Open the local URL shown in the terminal (usually `http://localhost:5173`).
+- 💻 Interested in Full Stack Development
+- ⚛️ Developing modern user interfaces with React.js
+- 🎨 Passionate about responsive web design
+- 🌱 Always learning and exploring new technologies
 
-## Build for deployment
+ ✨ Features
 
-```bash
-npm run build
-```
+- Modern and professional user interface
+- Responsive design for different screen sizes
+- About Me section
+- Technical skills showcase
+- Projects portfolio
+- Contact section
+- Interactive UI elements and animations
 
-The production output will be in the `dist` folder. This project can be deployed to Vercel by importing its GitHub repository.
+🛠️ Technologies Used
 
-## Customize
+- **React.js** – Building reusable UI components
+- **Tailwind CSS** – Utility-first styling and responsive layouts
+- **HTML5** – Structuring web content
+- **CSS3** – Styling and visual design
+- **JavaScript (ES6+)** – Interactive functionality
+- **Bootstrap** – Responsive layouts and UI components
+- **Git & GitHub** – Version control and project hosting
+- 
+## 🔗 Connect With Me
 
-- Update project links and descriptions in `src/App.jsx`.
-- Update colors, spacing and responsive styles in `src/styles.css`.
-- Check contact details and profile links before publishing.
-
-Note: project cards use designed text-based preview panels rather than screenshots. Replace them with real project screenshots if desired.
+- **GitHub:** [Hemanti Chauhan](https://github.com/hemantichauhan07-maker)
+- **Portfolio Repository:** [My-Portfolio](https://github.com/hemantichauhan07-maker/My-Portfolio)
+- **LinkedIn:** Add your LinkedIn profile URL here
+- **Email:** Add your professional email address here
